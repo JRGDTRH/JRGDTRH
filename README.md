@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JRGDTRH ... "Going down the rabbit hole" and deep diving many concepts of web development
+- 🌱 I’m currently learning ... Python, R, JS, CSS in efforts for web mapping through leaflet and libraries
